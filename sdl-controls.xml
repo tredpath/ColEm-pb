@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+<key x="260" y="92" width="25" height="25" sym="49">
+<label x="0" y="0" width="25" height="25" image="media/1.png"/>
+</key>
+<key x="287" y="92" width="25" height="25" sym="50">
+<label x="0" y="0" width="25" height="25" image="media/2.png"/>
+</key>
+<key x="314" y="92" width="25" height="25" sym="51">
+<label x="0" y="0" width="25" height="25" image="media/3.png"/>
+</key>
+<key x="260" y="119" width="25" height="25" sym="52">
+<label x="0" y="0" width="25" height="25" image="media/4.png"/>
+</key>
+<key x="287" y="119" width="25" height="25" sym="53">
+<label x="0" y="0" width="25" height="25" image="media/5.png"/>
+</key>
+<key x="314" y="119" width="25" height="25" sym="54">
+<label x="0" y="0" width="25" height="25" image="media/6.png"/>
+</key>
+<key x="260" y="146" width="25" height="25" sym="55">
+<label x="0" y="0" width="25" height="25" image="media/7.png"/>
+</key>
+<key x="287" y="146" width="25" height="25" sym="56">
+<label x="0" y="0" width="25" height="25" image="media/8.png"/>
+</key>
+<key x="314" y="146" width="25" height="25" sym="57">
+<label x="0" y="0" width="25" height="25" image="media/9.png"/>
+</key>
+<key x="233" y="173" width="25" height="25" sym="46" image="media/controller.png">
+</key>
+<key x="260" y="173" width="25" height="25" sym="45">
+<label x="0" y="0" width="25" height="25" image="media/star.png"/>
+</key>
+<key x="287" y="173" width="25" height="25" sym="48">
+<label x="0" y="0" width="25" height="25" image="media/0.png"/>
+</key>
+<key x="314" y="173" width="25" height="25" sym="35">
+<label x="0" y="0" width="25" height="25" image="media/hash.png"/>
+</key>
+<key x="289" y="50" width="25" height="25" sym="122">
+<label x="0" y="0" width="25" height="25" image="media/yellow.png"/>
+</key>
+<key x="314" y="36" width="25" height="25" sym="32">
+<label x="0" y="0" width="25" height="25" image="media/red.png"/>
+</key>
+<key x="277" y="30" width="20" height="20" sym="119">
+<label x="0" y="0" width="20" height="20" image="media/blue.png"/>
+</key>
+<key x="300" y="16" width="20" height="20" sym="113">
+<label x="0" y="0" width="20" height="20" image="media/purple.png"/>
+</key>
+<key x="2" y="2" width="25" height="25" sym="44" image="media/rom.png">
+</key>
+<dpad x="2" y="72" width="56" height="56">
+<label x="0" y="0" width="56" height="56" image="media/dpad.png"/>
+</dpad>
+<key x="2" y="173" width="25" height="25" sym="287" image="media/load.png">
+</key>
+<key x="29" y="173" width="25" height="25" sym="288" image="media/save.png">
+</key>
+</emulation>
