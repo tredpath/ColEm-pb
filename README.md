@@ -8,7 +8,8 @@ The controller buttons that are visible on the screen are:
 - The dpad,
 - The left fire button (yellow),
 - The right fire button (red),
-- And two SuperAction buttons (blue and purple)
+- And two SuperAction buttons (blue and purple).
+
 There are also 4 buttons that aren't visible on the screen. They can be located by swiping downward from the top of the screen. The non-visible buttons are:
 - ROM selector (top left),
 - Load/Save state buttons (bottom left),
